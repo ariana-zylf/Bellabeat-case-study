@@ -4,7 +4,6 @@ This case study explores smart device usage data in order to identify user activ
 The analysis was completed as part of the Google Data Analytics Certificate and focuses on how data can support business decisions and user engagement strategies.
 ## Tools Used
 - Microsoft Excel
-- Data Cleaning
 - Pivot Tables
 - Charts
 ## Analysis Process
