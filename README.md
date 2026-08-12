@@ -1,3 +1,7 @@
+**Role:** Data Analyst  
+**Tools & Techniques:** Microsoft Excel (Advanced Pivot Tables, Data Visualizations, Habit Consistency Modeling)  
+**Scope:** Behavioral analysis of smart device usage data (Fitbit dataset)
+
 # Bellabeat Case Study: Data-Driven Product Growth & Retention Strategy
 
 ## 📌 Executive Summary
