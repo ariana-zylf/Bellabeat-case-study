@@ -24,6 +24,10 @@ The analysis was performed in **Microsoft Excel** across a structured multi-tab 
 * **Individual Habit Instability (High Churn Risk):** While aggregate weekly consistency appears high (**0.85**), individual segmentation reveals high risk: **14 out of 33 users** have Low Consistency, **18** have Moderate Consistency, and **only 1 user** maintains High Consistency.
 * **Sleep Latency Gap:** Users average **458 minutes (~7.6 hours)** in bed, but only **419 minutes (~7.0 hours)** asleep — leaving an unguided **~39-minute gap** of wakefulness in bed.
 
+![User Consistency Distribution](images/user_consistency_distribution.PNG)
+
+*(Chart showing individual habit stability breakdown across Low, Moderate, and High consistency tiers)*
+
 ---
 
 ## 💡 Strategic Recommendations for Business Growth
